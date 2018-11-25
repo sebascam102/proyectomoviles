@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.edu.isistemas.umariana.caciedapp.PonentestaticoActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cardview_light_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                app:cardPreventCornerOverlap="false"
+                android:elevation="5dp"
+                app:cardCornerRadius="4dp"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/ponente"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:background="@color/colorPrimaryDark"
+                        app:srcCompat="@drawable/jorgevillalobos" />
+
+                    <TextView
+                        android:id="@+id/nombre"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:background="@color/colorPrimaryDark"
+                        android:hapticFeedbackEnabled="true"
+                        android:text="JORGE VILLALOBOS SALCEDO"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="FORMACIÓN"
+                        android:textColor="#000000"
+                        android:textStyle="bold" />
+
+                    <WebView
+                        android:id="@+id/formacion"
+                        android:layout_margin="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </WebView>
+                 <!--   <TextView
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:id="@+id/formacion"
+                        android:textColor="#504d4d"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                       /> -->
+
+                    <TextView
+                        android:id="@+id/textView8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="CONFERENCIA"
+                        android:textColor="#000000"
+                        android:textStyle="bold" />
+
+
+                    <WebView
+                        android:id="@+id/conferencia"
+                        android:layout_margin="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </WebView>
+                    <!-- <TextView
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:id="@+id/conferencia"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="#504d4d"/> -->
+
+                    <TextView
+                        android:id="@+id/tareas"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="AREAS DE INTERES"
+                        android:textColor="#000000"
+                        android:textStyle="bold" />
+
+                    <WebView
+                        android:id="@+id/areas"
+                        android:layout_margin="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </WebView>
+
+                   <!-- <TextView
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:id="@+id/areas"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="#504d4d" />
+                        -->
+
+                    <TextView
+                        android:id="@+id/tprogramas"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PROGRAMAS EN LOS QUE PARTICIPA"
+                        android:textColor="#000000"
+                        android:textStyle="bold" />
+
+                    <WebView
+                        android:id="@+id/programas"
+                        android:layout_margin="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </WebView>
+
+                    <!-- <TextView
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:id="@+id/programas"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="#504d4d" /> -->
+
+                    <TextView
+                        android:id="@+id/tasociacion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="ASOCIACIONES "
+                        android:textColor="#000000"
+                        android:textStyle="bold" />
+
+                    <WebView
+                        android:id="@+id/asociacion"
+                        android:layout_margin="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </WebView>
+                    <!--
+                    <TextView
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:id="@+id/asociacion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="#504d4d" />
+                        -->
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <Button
+                android:id="@+id/close"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ok" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</android.support.constraint.ConstraintLayout>
