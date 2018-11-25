@@ -79,7 +79,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Docentes"
+                                android:hint="@string/Docentes"
                                 android:textSize="12sp" />
                         </LinearLayout>
 
@@ -137,7 +137,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Instalaciones"
+                                android:hint="@string/Instalaciones"
                                 android:textSize="12sp" />
                         </LinearLayout>
 
@@ -174,7 +174,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Historia" />
+                                android:hint="@string/Historia" />
                         </LinearLayout>
                     </android.support.v7.widget.CardView>
 
@@ -202,7 +202,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Acerca de..." />
+                                android:hint="@string/acercade" />
                         </LinearLayout>
                     </android.support.v7.widget.CardView>
 
@@ -229,7 +229,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Salir" />
+                                android:hint="@string/Salir" />
                         </LinearLayout>
                     </android.support.v7.widget.CardView>
 

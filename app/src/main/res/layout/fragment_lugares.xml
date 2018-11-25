@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Bloque Madre Caridad"
+                android:hint="@string/bloque1"
                 android:textColor="@color/colorAccent"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -68,7 +68,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Este bloque está ubicado en la parte frontal del acceso principal a la universidad. En él se encuentran ubicadas las siguientes dependencias y aulas de clase: Piso Cero: Canal de Radio y Televisión, Archivo Institucional, Baño, Bodega, Admisiones Registro y Control Académico, Unidad de Emprendimiento y Espíritu Empresarial, Cafetería. Con una área total de 562.73 Mts2. Primer Piso: Biblioteca, Información, Relaciones Públicas, Archivo, Secretaría General, Capilla San José, Sala de Profesores Facultad de Humanidades y Ciencias Sociales, Rectoría, Secretaría de Rectoría, Vicerrectoría Administrativa y Financiera, Pagaduría, Vicerrectoria Académica, Cartera y Crédito ICETEX, Gestión Humana, Salud Ocupacional, Centro de Investigaciones, Planeación, Decanatura de Humanidades y Ciencias Sociales, Coordinación Egresados, Control Interno, Revisoría Fiscal, Baterías Sanitarias. Con una área total de 1282.67 Mts cuadrados. Segundo Piso: Facultad de Educación, Sala de Profesores Facultad de Educación, Oficina Banco de Oferentes, Sala de Profesores de Enfermería y Terapia Ocupacional, Sala Múltiple, Fondo de Empleados UNIMAR, Facultad Ciencias Contables Económicas y Administrativas, Secretaría Contaduría Pública, Dirección Programa Contaduría Pública, Sala de Profesores Contaduría Pública, Asesoría e Investigación Contaduría Pública, Dirección Programa Administración de Negocios Internacionales, Secretaría Programa Administración de Negocios"
+                android:hint="@string/descripcion1"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -101,7 +101,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Bloque Santa Clara"
+                android:hint="@string/bloque2"
                 android:textColor="@color/colorAccent"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -112,7 +112,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Está ubicado entre el Bloque Madre Caridad y el Bloque San Francisco, en él se encuentran las siguientes dependencias y aulas de clase: Piso Cero: Dirección Servicios Operacionales, Publicaciones, Fotocopiadoras, Almacén, Sala de Teatro, Baterías Sanitarias. Con una área total de 302 Mts2. Primer Piso: Facultad Ciencias de la Salud, Centro de Educación para el Trabajo y Desarrollo Humano, Dirección Programa Terapia Ocupacional, Sala de Profesores Terapia Ocupacional, Dirección Programa Auxiliares de Enfermería, Dirección Programa Regencia en Farmacia, Dirección Programa Enfermería, Sala de Profesores Auxiliares de Enfermería, Laboratorio de Enfermería, Laboratorio de Microbiología y Biología, Salas de Proyección 110, 114, 115, Baterías Sanitarias. Con una área total de 944 Mts2. Segundo Piso: Centro de Recursos Educativos, Auditórium Madre Caridad Brader, Salas de proyección 202, 203, 204, 205, Baterías Sanitarias. Con una área total de 944 Mts2 La ubicación de estas dependencias es adecuada, de fácil acceso, permitiendo que los estudiantes y la comunidad universitaria se congreguen tanto en las salas de proyección, como en el Auditórium, recinto que se utiliza como espacio para los "
+                android:hint="@string/descripcion2"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -145,7 +145,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Bloque San Francisco"
+                android:hint="@string/bloque3"
                 android:textColor="@color/colorAccent"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -156,7 +156,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:gravity="center_horizontal"
-                android:text="Se encuentra ubicado entre los bloques San Buenaventura y Maria Inmaculada dispone de cuatro pisos distribuidos de la siguiente manera: Piso Cero: Laboratorio de Fotografía, Sala de Proyección 004, Aula 005, Planta Eléctrica, Baterías Sanitarias. Con área total de 127 Mts2. Primer Piso: Dirección Programa Fisioterapia, Dirección Programa Radiodiagnóstico y Radioterapia, Laboratorio de Radiodiagnóstico, Auditorio Pedro Schumacher, Aulas 102, 103, 105. Con una área total de 336 Mts2. Segundo Piso: Oficina de Asesoría, Aulas 202, 203, 204, 205, Dirección Programa Nutrición y Dietética, Baterías Sanitarias. Con una área total de 308 Mts2. Tercer Piso: Dirección Programa Psicología, Sala de Profesores Psicología, Secretaría Programa Psicología, Cámara de Gessel, Aula 302, Baterías Sanitarias. Con una área total de 308 Mts2."
+                android:hint="@string/descripcion3"
                 android:textColor="@color/colorPrimaryText"
                 android:textSize="18sp"
                 android:textStyle="bold" />

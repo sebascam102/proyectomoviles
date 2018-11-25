@@ -43,7 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#23aea7"
-            android:text="Historia de Umariana"
+            android:hint="@string/HistoriaM"
             android:textColor="#ffffff"
             android:textSize="20sp" />
 
@@ -58,8 +58,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
+            android:hint="@string/DesHistoria"
             android:paddingLeft="13dp"
-            android:text=" La Universidad Mariana es el fruto de una propuesta efectuada en el marco del II Congreso Internacional de exalumnas Franciscanas celebrado en la ciudad de San Juan de Pasto, del 10 al 14 de enero de 1964, cuando se dieron cita delegaciones de diferentes regiones del país y del mundo donde tiene su apostolado la Comunidad de Hermanas Franciscanas, se presentaron varias propuestas, se pusieron a consideración y aprobación de la Honorable Asamblea.  Fue así como el 14 de enero, en el acto de clausura del II congreso internacional de exalumnas se decidió elevar la solicitud a la Congregación de Hermanas Franciscanas de María Inmaculada para la creación de un Centro de Educación Superior en esta ciudad con el propósito de continuar el nivel de formación de los estudiantes, especialmente de la mujer nariñense, por cuanto la Comunidad ofrecía una educación desde kinder hasta el bachillerato, pero era necesario su complementación universitaria"
             android:textColor="#000000"
             android:textSize="16sp" />
 
@@ -74,8 +74,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
+            android:hint="@string/DesHistoria2"
             android:paddingLeft="13dp"
-            android:text="La Universidad Mariana es el fruto de una propuesta efectuada en el marco del II Congreso Internacional de exalumnas Franciscanas celebrado en la ciudad de San Juan de Pasto, del 10 al 14 de enero de 1964, cuando se dieron cita delegaciones de diferentes regiones del país y del mundo donde tiene su apostolado la Comunidad de Hermanas Franciscanas, se presentaron varias propuestas, se pusieron a consideración y aprobación de la Honorable Asamblea. Fue así como el 14 de enero, en el acto de clausura del II congreso internacional de exalumnas se decidió elevar la solicitud a la Congregación de Hermanas Franciscanas de María Inmaculada para la creación de un Centro de Educación Superior en esta ciudad con el propósito de continuar el nivel de formación de los estudiantes, especialmente de la mujer nariñense"
             android:textColor="#000000"
             android:textSize="16sp" />
 

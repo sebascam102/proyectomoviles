@@ -1,15 +1,128 @@
 <resources>
-    <string name="app_name">Cacied 2017</string>
+    <string name="app_name" translatable="false">Cacied 2017</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--acercade-->
+    <string name="nombre1">William Fernado Insuasty</string>
+    <string name="nombre2">Sebastian Camilo Estacio</string>
+    <string name="correo1">wiinsuasty@umariana.edu.co</string>
+    <string name="correo2">sestacio@umariqana.edu.co</string>
+    <string name="et_facultad">Ingeniero de Sistemas</string>
+    <string name="et_profesion">Estudiante</string>
+    <string name="button">OK</string>
 
-    <string name="action_settings">Settings</string>
-    <string name="andino">ANDINO</string>
-    <string name="congreso">CONGRESO</string>
-    <string name="comput">en Computacón, Informatica y Educación</string>
+    <!--splas_screen-->
+    <string name="universidad">Universidad Mariana</string>
 
-    <string name="textoInicio"><![CDATA[
+    <!--conferencistas-->
+    <string name="nombredocente1">Jose Javier villava</string>
+    <string name="cargo1">Docente</string>
+    <string name="gradoacademico1">Magister:</string>
+    <string name="nombreacademico1">Informatica y telematica</string>
+    <string name="profesion">Docencia universitaria</string>
+
+    <string name="nombredocente2">Frankin Eduardo Jimenez</string>
+    <string name="cargo2">Docente</string>
+    <string name="nombreacademico2">Ing. Sistemas</string>
+
+    <string name="nombredocente3">Andres Muñoz Guzman</string>
+    <string name="cargo3">Director de la facultad</string>
+
+    <!-- inicio  -->
+    <string name="Docentes">Docentes</string>
+    <string name="Instalaciones">Instalaciones</string>
+    <string name="Historia">Historia</string>
+    <string name="acercade">Acercade</string>
+    <string name="Salir">Salir</string>
+
+    <!-- lugares -->
+    <string name="instalaciones">Instalaciones</string>
+    <string name="bloque1">Bloque Madre Caridad</string>
+    <string name="descripcion1">Este bloque está ubicado en la parte frontal del acceso principal a la universidad. En él se encuentran ubicadas las siguientes dependencias y aulas de clase: Piso Cero: Canal de Radio y Televisión, Archivo Institucional, Baño, Bodega, Admisiones Registro y Control Académico, Unidad de Emprendimiento y Espíritu Empresarial, Cafetería. Con una área total de 562.73 Mts2. Primer Piso: Biblioteca, Información, Relaciones Públicas, Archivo, Secretaría General, Capilla San José, Sala de Profesores Facultad de Humanidades y Ciencias Sociales, Rectoría, Secretaría de Rectoría, Vicerrectoría Administrativa y Financiera, Pagaduría, Vicerrectoria Académica, Cartera y Crédito ICETEX, Gestión Humana, Salud Ocupacional, Centro de Investigaciones, Planeación, Decanatura de Humanidades y Ciencias Sociales, Coordinación Egresados, Control Interno, Revisoría Fiscal, Baterías Sanitarias. Con una área total de 1282.67 Mts cuadrados. Segundo Piso: Facultad de Educación, Sala de Profesores Facultad de Educación, Oficina Banco de Oferentes, Sala de Profesores de Enfermería y Terapia Ocupacional, Sala Múltiple, Fondo de Empleados UNIMAR, Facultad Ciencias Contables Económicas y Administrativas, Secretaría Contaduría Pública, Dirección Programa Contaduría Pública, Sala de Profesores Contaduría Pública, Asesoría e Investigación Contaduría Pública, Dirección Programa Administración de Negocios Internacionales, Secretaría Programa Administración de Negocios</string>
+    <string name="bloque2">Bloque Santa Clara</string>
+    <string name="descripcion2">Está ubicado entre el Bloque Madre Caridad y el Bloque San Francisco, en él se encuentran las siguientes dependencias y aulas de clase: Piso Cero: Dirección Servicios Operacionales, Publicaciones, Fotocopiadoras, Almacén, Sala de Teatro, Baterías Sanitarias. Con una área total de 302 Mts2. Primer Piso: Facultad Ciencias de la Salud, Centro de Educación para el Trabajo y Desarrollo Humano, Dirección Programa Terapia Ocupacional, Sala de Profesores Terapia Ocupacional, Dirección Programa Auxiliares de Enfermería, Dirección Programa Regencia en Farmacia, Dirección Programa Enfermería, Sala de Profesores Auxiliares de Enfermería, Laboratorio de Enfermería, Laboratorio de Microbiología y Biología, Salas de Proyección 110, 114, 115, Baterías Sanitarias. Con una área total de 944 Mts2. Segundo Piso: Centro de Recursos Educativos, Auditórium Madre Caridad Brader, Salas de proyección 202, 203, 204, 205, Baterías Sanitarias. Con una área total de 944 Mts2 La ubicación de estas dependencias es adecuada, de fácil acceso, permitiendo que los estudiantes y la comunidad universitaria se congreguen tanto en las salas de proyección, como en el Auditórium, recinto que se utiliza como espacio para los </string>
+    <string name="bloque3">Bloque San Francisco</string>
+    <string name="descripcion3">Se encuentra ubicado entre los bloques San Buenaventura y Maria Inmaculada dispone de cuatro pisos distribuidos de la siguiente manera: Piso Cero: Laboratorio de Fotografía, Sala de Proyección 004, Aula 005, Planta Eléctrica, Baterías Sanitarias. Con área total de 127 Mts2. Primer Piso: Dirección Programa Fisioterapia, Dirección Programa Radiodiagnóstico y Radioterapia, Laboratorio de Radiodiagnóstico, Auditorio Pedro Schumacher, Aulas 102, 103, 105. Con una área total de 336 Mts2. Segundo Piso: Oficina de Asesoría, Aulas 202, 203, 204, 205, Dirección Programa Nutrición y Dietética, Baterías Sanitarias. Con una área total de 308 Mts2. Tercer Piso: Dirección Programa Psicología, Sala de Profesores Psicología, Secretaría Programa Psicología, Cámara de Gessel, Aula 302, Baterías Sanitarias. Con una área total de 308 Mts2.</string>
+
+    <!-- programacion -->
+    <string name="HistoriaM">Historia de la U.Mariana</string>
+    <string name="DesHistoria"> La Universidad Mariana es el fruto de una propuesta efectuada en el marco del II Congreso Internacional de exalumnas Franciscanas celebrado en la ciudad de San Juan de Pasto, del 10 al 14 de enero de 1964, cuando se dieron cita delegaciones de diferentes regiones del país y del mundo donde tiene su apostolado la Comunidad de Hermanas Franciscanas, se presentaron varias propuestas, se pusieron a consideración y aprobación de la Honorable Asamblea.  Fue así como el 14 de enero, en el acto de clausura del II congreso internacional de exalumnas se decidió elevar la solicitud a la Congregación de Hermanas Franciscanas de María Inmaculada para la creación de un Centro de Educación Superior en esta ciudad con el propósito de continuar el nivel de formación de los estudiantes, especialmente de la mujer nariñense, por cuanto la Comunidad ofrecía una educación desde kinder hasta el bachillerato, pero era necesario su complementación universitaria</string>
+    <string name="DesHistoria2">La Universidad Mariana es el fruto de una propuesta efectuada en el marco del II Congreso Internacional de exalumnas Franciscanas celebrado en la ciudad de San Juan de Pasto, del 10 al 14 de enero de 1964, cuando se dieron cita delegaciones de diferentes regiones del país y del mundo donde tiene su apostolado la Comunidad de Hermanas Franciscanas, se presentaron varias propuestas, se pusieron a consideración y aprobación de la Honorable Asamblea. Fue así como el 14 de enero, en el acto de clausura del II congreso internacional de exalumnas se decidió elevar la solicitud a la Congregación de Hermanas Franciscanas de María Inmaculada para la creación de un Centro de Educación Superior en esta ciudad con el propósito de continuar el nivel de formación de los estudiantes, especialmente de la mujer nariñense</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="andino" translatable="false">ANDINO</string>
+    <string name="congreso" translatable="false">CONGRESO</string>
+    <string name="comput" translatable="false">en Computacón, Informatica y Educación</string>
+
+    <string name="textoInicio" translatable="false"><![CDATA[
                <html><body><p style=\"font-size:14px; padding=15px\" align=\"justify\">"
                             <b>CACIED</b> ser&aacute; un lugar de encuentro de investigadores, docentes, profesionales y estudiantes de los pa&iacute;ses andinos con el fin de compartir y socializar sus experiencias e investigaciones en las Ciencias de la Computaci&oacute;n, Inform&aacute;tica y Educaci&oacute;n en Ingenier&iacute;a de Sistemas.
                           <br><br>
@@ -21,197 +134,21 @@
 ]]>
     </string>
 
-    <string name="udenar">
+    <string name="udenar" translatable="false">
         <![CDATA[ <html><body><p style=\"font-size:14px; padding=15px\" align=\"justify\">"Actualmente, la Universidad de Nari&ntilde;o cuenta con 11 Facultades, 50 programas acad&eacute;micos de pregrado de los cuales 15 se encuentran acreditados en alta calidad, 19 programas acad&eacute;micos de postgrado propios y 7 en Convenio. Se puede afirmar que el \"Alma Mater\" a trav&eacute;s del mejoramiento permanente, impulsa con tenacidad los campos de la investigaci&oacute;n, la docencia y proyecci&oacute;n social, acordes con los retos que la modernidad le impone.</p></body></html>
 ]]>
     </string>
 
-    <string name="umariana">
+    <string name="umariana" translatable="false">
         <![CDATA[ <html><body><p style=\"font-size:14px; padding=15px\" align=\"justify\">"Desde su fundaci&oacute;n, la Universidad Mariana contribuye con el desarrollo de sus funciones misionales a la transformaci&oacute;n del entorno social, educativo, ecol&oacute;gico, pol&iacute;tico, econ&oacute;mico y cultural a trav&eacute;s de las actividades realizadas desde sus diferentes Facultades, tanto en los programas presenciales como a distancia. En la actualidad cuenta con seis Unidades Acad&eacute;micas en las cuales se ofrece una variedad de programas tanto de pregrado como de postgrado, ellas son: Facultad de Educaci&oacute;n, Facultad de Humanidades y Ciencias Sociales, Facultad de Ciencias de la Salud, Facultad de Ciencias Contables, Econ&oacute;micas y Administrativas, Facultad de Ingenier&iacute;a y la Facultad de Postgrados y Relaciones Internacionales.</p></body></html>
 ]]>
     </string>
 
-    <string name="cesmag">
+    <string name="cesmag" translatable="false">
         <![CDATA[ <html><body><p style=\"font-size:14px; padding=15px\" align=\"justify\">"La Instituci&oacute;n Universitaria Centro de Estudios Superiores Mar&iacute;a Goretti (I. U. CESMAG) es una universidad privada y cat&oacute;lica franciscana colombiana ubicada en San Juan de Pasto, Colombia. La Instituci&oacute;n fue fundada por el sacerdote cat&oacute;lico Guillermo de Castellana, tiene el nombre de la santa Maria Goretti, y cuenta con cinco facultades (Ciencias Sociales y Humanas, Ingenier&iacute;a, Arquitectura y Bellas Artes, Ciencias Administrativas y Contables, Educaci&oacute;n) que ofrecen un total de 12 programas de pregrado y 5 programas de posgrado.</p></body></html>
 ]]>
     </string>
 
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-
-    <string name="jv">JORGE VILLALOBOS SALCEDO</string>
-    <string name="formacionjv"><![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"Ph.D en Inform&aacute;tica, Universidad Joseph Fourier (Grenoble, Francia), Master en Inform&aacute;tica, Institut National Polytechnique (Grenoble, Francia), Ingeniero de Sistemas y Computaci&oacute;n, Universidad de los Andes, Postdoctorado, Laboratorio LSR (Grenoble, Francia), Profesor Asociado Departamento de Ingenier&iacute;a de Sistemas y Computaci&oacute;n de la Universidad de los Andes. Investigador y consultor en las &aacute;reas de Arquitectura empresarial, Arquitectura de procesos y Arquitectura de soluci&oacute;n.<br>
-         Pertenece al Grupo de investigaci&oacute;n TICSw - Tecnolog&iacute;as de la Informaci&oacute;n y Construcci&oacute;n de Software - TICSw
-         </p></body></html>]]></string>
-    <string name="tconferenciajv">Formando arquitectos de TI</string>
-    <string name="conferenciajv">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
-        Un perfil profesional muy importante y de alta
-        demanda en Ingenier&iacute;a de Sistemas es la arquitectura de TI. Este perfil
-        incluye arquitectos de software, arquitectos de datos y arquitectos
-        empresariales, entre otros. Los profesionales dedicados a estas actividades
-        requieren algunos conocimientos y habilidades especializadas que no siempre
-        son f&aacute;ciles de generar. En esta conferencia, se presenta la descripci&oacute;n del
-        perfil, las estrategias de generaci&oacute;n de habilidades y las herramientas
-        necesarias para lograrlo.
-    </p></body></html>]]>
-    </string>
-    <string name="areajv">
-        <![CDATA[ <html><body>
-        <ul style=\"font-size:14px; \">
-        <li>Arquitectura empresarial, BPM y workflows</li>
-        <li>Arquitecturas orientadas a servicios</li>
-        <li>Arquitectura de software</li>
-        <liAn&aacute;lisis de requerimientos y dise&ntilde;o de software</li>
-        </ul>
-        </body></html>]]>
-        </string>
-    <string name="programajv">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
-        Doctorado en Ingenier&iacute;a &#45; Universidad de los Andes <br> Maestr&iacute;a en Arquitecturas de Tecnolog&iacute;as de Informaci&oacute;n &#45; Universidad de los Andes<br>
-        Maestr&iacute;a en Tecnolog&iacute;as de Informaci&oacute;n para el Negocio &#45; Universidad de los Andes <br> Maestr&iacute;a en Ingenier&iacute;a de Sistemas y Computaci&oacute;n &#45; Universidad de los Andes <br>Especializaci&oacute;n en Construcci&oacute;n de Software &#45; Universidad de los Andes<br>
- Pregrado en Ingenier&iacute;a de Sistemas y Computaci&oacute;n &#45; Universidad de los Andes </p></body></html>]]>
-</string>
-    <string name="asojv">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
-        ACIS - Asociaci&oacute;n Colombiana de Ingenieros de Sistemas<br>
- SCo2 - Sociedad Colombiana de Computaci&oacute;n<br>
- ACM - Association for Computing Machinery<br>
- IASA - Global IT Architect Association<br>
- AEA - Association of Enterprise Architect
-</p></body></html>]]>
-</string>
-    <string name="horajv">Viernes 3 de noviembre \nHora: 10:30 - 12:00</string>
-
-    <string name="lp">LUIS EDUARDO PELAEZ VALENCIA</string>
-    <string name="formacionlp">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
-        Ingeniero de sistemas, Especialista en propiedad intelectual:
-        propiedad industrial, derechos de autor y nuevas tecnolog&iacute;as; Magister en Ingenier&iacute;a
-        de Software del Instituto Tecnol&oacute;gico de Buenos Aires y Master en Ingenier&iacute;a de Software
-        con &eacute;nfasis en Gesti&oacute;n y Desarrollo de proyectos de software de la Universidad Polit&eacute;cnica
-        de Madrid; Doctor (C) en Proyectos, l&iacute;nea TICS.<br>
-        Investigador Asociado COLCIENCIAS, 20 a&ntilde;os de experiencia en investigaci&oacute;n en la disciplina
-        de la Ingenier&iacute;a del software, particularmente en la subdisciplina del Aseguramiento de
-        la Calidad del Software.<br>
-        Actualmente, Profesor Asociado de la Universidad Cat&oacute;lica de Pereira y Coordinador de la
-        Comisi&oacute;n Nacional de Aseguramiento de la Calidad de la Educaci&oacute;n Superior -CONACES en la
-        Sala de Tecnolog&iacute;as de Informaci&oacute;n y Comunicaci&oacute;n (TIC) y la Sala de Coordinadores.
-        </p></body></html>]]>
-        </string>
-    <string name="tconferencialp">Tendencias y buenas prácticas alrededor de la ingeniería del Software</string>
-    <string name="conferencialp">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
-        Por su condici&oacute;n de tangible, al software se le han presentado
-        restricciones a la hora de garantizar su calidad. Por eso, se prefiere hablar de
-        aseguramiento de calidad durante los procesos de desarrollo y gesti&oacute;n; para que,
-        desde la documentaci&oacute;n, apropiaci&oacute;n e implementaci&oacute;n de buenas pr&aacute;cticas, se adopten
-        mecanismos que promuevan el mejoramiento del proceso y que redunde en la calidad del
-        producto.  As&iacute;, asegurando la calidad del proceso, se promueve un producto de m&aacute;s y
-        mejor calidad.
-        En este caso, se abordan dos fases claves para el aseguramiento de la calidad en los
-        procesos de desarrollo y gesti&oacute;n: una de ellas al inicio, los requerimientos; la otra,
-        al final del procesos, las pruebas.
-    </p></body></html>]]>
-    </string>
-    <string name="arealp">-</string>
-    <string name="programalp">-</string>
-    <string name="asolp">-</string>
-    <string name="horalp">Jueves 2 de noviembre \nHora: 10:30 - 12:00</string>
-
-
-    <string name="eh">JUAN SOSSA</string>
-    <string name="formacioneh"><![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-    "Juan es Ingeniero de Sistemas y Computaci&oacute;n y l&iacute;der t&eacute;cnico en PSL. Con m&aacute;s de 10 a&ntilde;os de
-    experiencia en la industria de IT, ha trabajado como desarrollador senior de software,
-    consultor IT, y profesor. Su experiencia incluye proyectos de integraci&oacute;n con grandes
-    vol&uacute;menes de datos en sectores industriales que requieren procesamiento y almacenamiento
-    a gran escala. Actualmente en PSL trabaja en proyectos destinados a procesar 1 bill&oacute;n de
-    eventos por segundo y  realizar  an&aacute;lisis sobre billones de registros que se actualizan
-    constantemente, destinados a proyectos con carros aut&oacute;nomos.
-        </p></body></html>]]>
-    </string>
-    <string name="tconferenciaeh">Analytics for BigData with Apache Software</string>
-    <string name="conferenciaeh">
-    <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-        Cuando el volumen y la velocidad de los datos de entrada y salida
-        crecen, necesitamos mejorar los m&eacute;todos para extraer, transformar, cargar y procesar los datos.
-        Preguntas como: &#191;C&oacute;mo leer m&uacute;ltiples fuentes de datos con esquemas independientes usando
-        el mejor conjunto de herramientas&#63;
-        &#191;Es posible usar un enfoque libre de esquemas&#63; &#191;C&oacute;mo distribuir los datos para obtener
-        rendimiento&#63; &#191;C&oacute;mo se procesa el origen de datos en vivo usando herramientas de transmisi&oacute;n&#63;
-        En la siguiente charla, presentaremos una descripci&oacute;n general de las herramientas y
-        proyectos de Apache para resolver las preguntas principales.
-        </p></body></html>]]>
-        </string>
-    <string name="areaeh">-</string>
-    <string name="programaeh">-</string>
-    <string name="asoeh">-</string>
-    <string name="horaeh">Jueves 2 de noviembre \nHora: 16:30 - 18:00</string>
-
-
-    <string name="mo">MANUEL ORTEGA CANTERO</string>
-    <string name="formacionmo">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-        Manuel es Licenciado en Ciencias (Secci&oacute;n de Qu&iacute;micas) de la
-        Universidad Aut&oacute;noma de Barcelona, Grado de Licenciado en Ciencias (Secci&oacute;n Qu&iacute;micas)
-        de la Universidad Aut&oacute;noma de Barcelona, Certificado de Aptitud Pedag&oacute;gica del Instituto
-        de Ciencias de la Educaci&oacute;n de la U.A.B y Doctor en Ciencias (Qu&iacute;mica F&iacute;sica) de la
-        Universidad Aut&oacute;noma de Barcelona.
-        Manuel es catedr&aacute;tico de Universidad numerario en la Escuela Superior de Inform&aacute;tica
-        de Ciudad Real desde 3 de Julio de 2003. Universidad de Castilla - La Mancha. &Aacute;rea de
-        conocimiento: Lenguajes y Sistemas Inform&aacute;ticos.
-    </p></body></html>]]></string>
-    <string name="tconferenciamo">Técnicas de seguimiento ocular (eye tracking) en el desarrollo de aplicaciones para la enseñanza de la programación.</string>
-    <string name="conferenciamo"> <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">T&eacute;nicas de seguimiento ocular (eye tracking) en el desarrollo de aplicaciones para la ense&ntilde;anza de la programaci&oacute;n.</p></body></html>]]></string>
-    <string name="areamo">
-         <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-        Inform&aacute;tica Educativa y Sistemas de e-Learning:
-        -Dise&ntilde;o de modelos computacionales en sistemas de aprendizaje.
-        -Integraci&oacute;n de ontolog&iacute;as, est&aacute;ndares y objetos de aprendizaje en sistemas de e-Learning.
-        Interacci&oacute;n Persona-Computador:
-        -Dise&ntilde;o y especificaci&oacute;n de interfaces de usuario cooperativos y colaborativos.
-        -Dise&ntilde;o de la interacci&oacute;n mediante los paradigmas de computaci&oacute;n m&oacute;vil, ubicua y realidad aumentada.
-    </p></body></html>]]>
-    </string>
-    <string name="programamo">-</string>
-    <string name="asomo">-</string>
-    <string name="horamo">Miercoles 1 de noviembre \nHora: 10:30 - 12:00</string>
-
-    <string name="title_activity_mapalug">Map</string>
-
-
-    <string name="ho">HUGO ARMANDO ORDOÑEZ ERAZO</string>
-    <string name="formacionho">
-        <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-        Ingeniero de Sistemas, Especialista en Gerencia Inform&aacute;tica,
-        Mag&iacute;ster en Computaci&oacute;n y Doctor en Ingenier&iacute;a Telem&aacute;tica. Se encuentra categorizado
-        como Investigador Asociado seg&uacute;n Colciencias. Ha realizado estancias investigativas
-        en la  Universidad Nacional de Colombia sede Bogot&aacute;,  en el a&ntilde;o 2010  y en la Universidad
-        Federal do Rio Grande do Sul, Porto Alegre Brasil, en el a&ntilde;o 2013. Actualmente es profesor
-        titular de la Universidad San Buenaventura de Cali
-        </p></body></html>]]>
-        </string>
-    <string name="tconferenciaho">Clustering de modelos de procesos de negocio en búsqueda multimodal y arreglos cobertura</string>
-    <string name="conferenciaho">
-            <![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
-        Debido al gran volumen de repositorios de procesos empresariales,
-        encontrar un proceso en particular o un subconjunto de ellos basado en similitudes de
-        funcionalidad o actividades pueden convertirse en una tarea dif&iacute;cil. Esta charla presenta
-        un m&eacute;todo de b&uacute;squeda y agrupaci&oacute;n de modelos de procesos de negocio. El m&eacute;todo de b&uacute;squeda
-        considera la informaci&oacute;n lingü&iacute;stica y de comportamiento. El m&eacute;todo cluster se basa en
-        (un objeto combinatorio utilizado para minimizar el conjunto de ensayos para encontrar
-        una agrupaci&oacute;n  particular). El m&eacute;todo de agrupaci&oacute;n  evita la superposici&oacute;n y mejora la
-        homogeneidad de los grupos creados utilizando un arreglo de cobertura. Los resultados
-        obtenidos superan los resultados la precisi&oacute;n, el recuerdo y la F-Medida de los enfoques
-        previamente reportados.
-        </p></body></html>]]>
-        </string>
-    <string name="areaho">-</string>
-    <string name="programaho">-</string>
-    <string name="asoho">-</string>
-    <string name="horaho">Viernes 3 de noviembre \nHora: 08:00 - 10:00</string>
 
 </resources>

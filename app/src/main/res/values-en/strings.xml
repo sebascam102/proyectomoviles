@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--acercade-->
+    <string name="nombre1">William Fernado Insuasty</string>
+    <string name="nombre2">Sebastian Camilo Estacio</string>
+    <string name="correo1">wiinsuasty@umariana.edu.co</string>
+    <string name="correo2">sestacio@umariqana.edu.co</string>
+    <string name="et_facultad">Systems Engineer</string>
+    <string name="et_profesion">Student</string>
+    <string name="button">OK</string>
+
+    <!--splas_screen-->
+    <string name="universidad">Mariana University</string>
+
+    <!--conferencistas-->
+    <string name="nombredocente1">Jose Javier villava</string>
+    <string name="cargo1">Teacher</string>
+    <string name="gradoacademico1">Magister:</string>
+    <string name="nombreacademico1">Informatics and telematics</string>
+    <string name="profesion">University teachinga</string>
+
+    <string name="nombredocente2">Frankin Eduardo Jimenez</string>
+    <string name="cargo2">Teacher</string>
+    <string name="nombreacademico2">Systems Engineer</string>
+
+    <string name="nombredocente3">Andres Muñoz Guzman</string>
+    <string name="cargo3">Director of the faculty</string>
+
+    <!-- inicio  -->
+    <string name="Docentes">Teachers</string>
+    <string name="Instalaciones">Installation</string>
+    <string name="Historia">History</string>
+    <string name="acercade">About</string>
+    <string name="Salir">Exit</string>
+
+    <!-- lugares -->
+    <string name="instalaciones">Installation</string>
+    <string name="bloque1">Block Madre Caridad</string>
+    <string name="descripcion1">This block is located on the front of the main access to the university. In it are located the following dependencies and classrooms: Floor Zero: Radio and Television Channel, Institutional Archive, Bathroom, Warehouse, Admissions Registration and Academic Control, Entrepreneurship and Entrepreneurship Unit, Cafeteria. With a total area of ​​562.73 Mts2. First Floor: Library, Information, Public Relations, Archives, General Secretariat, San José Chapel, Professors Room, Faculty of Humanities and Social Sciences, Rectory, Rectory Secretariat, Administrative and Financial Vice-Rectory, Pagaduria, Academic Vice-Rectory, Portfolio and ICETEX Credit, Human Management, Occupational Health, Research Center, Planning, Degrees of Humanities and Social Sciences, Alumni Coordination, Internal Control, Statutory Auditor, Health Batteries. With a total area of ​​1282.67 square meters. Second Floor: Faculty of Education, Faculty Room, Faculty of Education, Bank of Bidders Office, Professors Room for Nursing and Occupational Therapy, Multiple Room, UNIMAR Employees Fund, Faculty of Economic and Administrative Accounting Sciences, Public Accounting Secretariat, Accounting Office Management Public, Teachers Room Public Accounting, Advisory and Research Public Accounting, Management International Business Administration Program, Secretariat Business Administration Program</string>
+    <string name="bloque2">Block Santa Clara</string>
+    <string name="descripcion2">It is located between the Bloque Madre Caridad and the Bloque San Francisco, where the following rooms and classrooms are located: Ground Floor: Operational Services, Publications, Photocopiers, Warehouse, Theater, Sanitary Batteries. With a total area of ​​302 Mts2. First Floor: Health Sciences Faculty, Education Center for Work and Human Development, Occupational Therapy Program Management, Occupational Therapy Teachers Room, Nursing Assistant Program Management, Pharmacy Regency Program Management, Nursing Program Management, Auxiliary Teachers Room of Nursing, Laboratory of Nursing, Laboratory of Microbiology and Biology, Projection Rooms 110, 114, 115, Sanitary Batteries. With a total area of ​​944 Mts2. Second Floor: Educational Resource Center, Madre Caridad Brader Auditorium, 202, 203, 204, 205, Sanitary Batteries. With a total area of ​​944 Mts2 The location of these facilities is adequate, easily accessible, allowing students and the university community to congregate in both the projection rooms and the Auditorium</string>
+    <string name="bloque3">Block San Francisco</string>
+    <string name="descripcion3">It is located between blocks San Buenaventura and Maria Inmaculada has four floors distributed as follows: Floor Zero: Photography Laboratory, Projection Room 004, Classroom 005, Power Plant, Sanitary Batteries. With a total area of ​​127 Mts2. First Floor: Direction Physiotherapy Program, Radiodiagnostic and Radiotherapy Program Management, Radiodiagnostic Laboratory, Pedro Schumacher Auditorium, Classrooms 102, 103, 105. With a total area of ​​336 Mts2. Second Floor: Office of Advising, Classrooms 202, 203, 204, 205, Direction Program Nutrition and Dietetics, Sanitary Batteries. With a total area of ​​308 Mts2. Third Floor: Direction Psychology Program, Psychology Teachers Room, Psychology Program Secretary, Gessel Chamber, Room 302, Sanitary Batteries. With a total area of ​​308 Mts2.</string>
+
+    <!-- programacion -->
+    <string name="HistoriaM">History de la U.Mariana</string>
+    <string name="DesHistoria">The Mariana University is the result of a proposal made within the framework of the II International Congress of Franciscan Past Pupils held in the city of San Juan de Pasto, from January 10 to 14, 1964, when delegations from different regions of the country met. of the world where the Community of Franciscan Sisters has its apostolate, several proposals were submitted, they were put to the consideration and approval of the Honorable Assembly. Thus, on January 14, at the closing ceremony of the II International Congress of Past Pupils, it was decided to raise the request to the Congregation of Franciscan Sisters of Mary Immaculate for the creation of a Higher Education Center in this city with the purpose of continuing the level of education of the students, especially of the Nariño women, inasmuch as the Community offered an education from kindergarten to the baccalaureate, but its university complementation was necessary</string>
+    <string name="DesHistoria2">The Mariana University is the result of a proposal made within the framework of the II International Congress of Franciscan Past Pupils held in the city of San Juan de Pasto, from January 10 to 14, 1964, when delegations from different regions of the country met. of the world where the Community of Franciscan Sisters has its apostolate, several proposals were submitted, they were put to the consideration and approval of the Honorable Assembly. Thus, on January 14, at the closing ceremony of the II International Congress of Past Pupils, it was decided to raise the request to the Congregation of Franciscan Sisters of Mary Immaculate for the creation of a Higher Education Center in this city with the purpose of continuing the level of education of the students, especially of the Nariñense women</string>
+
+
+</resources>
