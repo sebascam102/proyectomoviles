@@ -143,9 +143,8 @@ public class MainActivity extends AppCompatActivity
             fragmentClass = LugaresFragment.class;
         } else if (id == R.id.programacion) {
             fragmentClass = ProgramacionFragment.class;
-        }else if(id == R.id.nav_ponencias){
-            fragmentClass = PonenciasFragment.class;
-        } else if (id == R.id.nav_share) {
+        }
+         else if (id == R.id.nav_share) {
             AlertDialog.Builder uBuilder2 = new AlertDialog.Builder(MainActivity.this);
             View aView2 = getLayoutInflater().inflate(R.layout.acercade, null);
             uBuilder2.setView(aView2);

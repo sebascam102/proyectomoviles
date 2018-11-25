@@ -149,6 +149,248 @@
 ]]>
     </string>
 
+    <!-- TODO: Remove or change this placeholder text -->
 
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="jv" translatable="false">JORGE VILLALOBOS SALCEDO</string>
+
+
+    -<string name="formacionjv" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"Ph.D en Inform&aacute;tica, Universidad Joseph Fourier (Grenoble, Francia), Master en Inform&aacute;tica, Institut National Polytechnique (Grenoble, Francia), Ingeniero de Sistemas y Computaci&oacute;n, Universidad de los Andes, Postdoctorado, Laboratorio LSR (Grenoble, Francia), Profesor Asociado Departamento de Ingenier&iacute;a de Sistemas y Computaci&oacute;n de la Universidad de los Andes. Investigador y consultor en las &aacute;reas de Arquitectura empresarial, Arquitectura de procesos y Arquitectura de soluci&oacute;n.<br>
+         Pertenece al Grupo de investigaci&oacute;n TICSw - Tecnolog&iacute;as de la Informaci&oacute;n y Construcci&oacute;n de Software - TICSw
+         </p></body></html>]]>
+</string>
+
+    <string name="tconferenciajv" translatable="false">Formando arquitectos de TI</string>
+
+
+    -<string name="conferenciajv" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
+        Un perfil profesional muy importante y de alta
+        demanda en Ingenier&iacute;a de Sistemas es la arquitectura de TI. Este perfil
+        incluye arquitectos de software, arquitectos de datos y arquitectos
+        empresariales, entre otros. Los profesionales dedicados a estas actividades
+        requieren algunos conocimientos y habilidades especializadas que no siempre
+        son f&aacute;ciles de generar. En esta conferencia, se presenta la descripci&oacute;n del
+        perfil, las estrategias de generaci&oacute;n de habilidades y las herramientas
+        necesarias para lograrlo.
+    </p></body></html>]]>
+</string>
+
+
+    -<string name="areajv" translatable="false">
+
+-<![CDATA[ <html><body>
+        <ul style=\"font-size:14px; \">
+        <li>Arquitectura empresarial, BPM y workflows</li>
+        <li>Arquitecturas orientadas a servicios</li>
+        <li>Arquitectura de software</li>
+        <liAn&aacute;lisis de requerimientos y dise&ntilde;o de software</li>
+        </ul>
+        </body></html>]]>
+</string>
+
+
+    -<string name="programajv" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
+        Doctorado en Ingenier&iacute;a &#45; Universidad de los Andes <br> Maestr&iacute;a en Arquitecturas de Tecnolog&iacute;as de Informaci&oacute;n &#45; Universidad de los Andes<br>
+        Maestr&iacute;a en Tecnolog&iacute;as de Informaci&oacute;n para el Negocio &#45; Universidad de los Andes <br> Maestr&iacute;a en Ingenier&iacute;a de Sistemas y Computaci&oacute;n &#45; Universidad de los Andes <br>Especializaci&oacute;n en Construcci&oacute;n de Software &#45; Universidad de los Andes<br>
+ Pregrado en Ingenier&iacute;a de Sistemas y Computaci&oacute;n &#45; Universidad de los Andes </p></body></html>]]>
+</string>
+
+
+    -<string name="asojv" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
+        ACIS - Asociaci&oacute;n Colombiana de Ingenieros de Sistemas<br>
+ SCo2 - Sociedad Colombiana de Computaci&oacute;n<br>
+ ACM - Association for Computing Machinery<br>
+ IASA - Global IT Architect Association<br>
+ AEA - Association of Enterprise Architect
+</p></body></html>]]>
+</string>
+
+    <string name="horajv" translatable="false">Viernes 3 de noviembre \nHora: 10:30 - 12:00</string>
+
+    <string name="lp" translatable="false">LUIS EDUARDO PELAEZ VALENCIA</string>
+
+
+    -<string name="formacionlp" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
+        Ingeniero de sistemas, Especialista en propiedad intelectual:
+        propiedad industrial, derechos de autor y nuevas tecnolog&iacute;as; Magister en Ingenier&iacute;a
+        de Software del Instituto Tecnol&oacute;gico de Buenos Aires y Master en Ingenier&iacute;a de Software
+        con &eacute;nfasis en Gesti&oacute;n y Desarrollo de proyectos de software de la Universidad Polit&eacute;cnica
+        de Madrid; Doctor (C) en Proyectos, l&iacute;nea TICS.<br>
+        Investigador Asociado COLCIENCIAS, 20 a&ntilde;os de experiencia en investigaci&oacute;n en la disciplina
+        de la Ingenier&iacute;a del software, particularmente en la subdisciplina del Aseguramiento de
+        la Calidad del Software.<br>
+        Actualmente, Profesor Asociado de la Universidad Cat&oacute;lica de Pereira y Coordinador de la
+        Comisi&oacute;n Nacional de Aseguramiento de la Calidad de la Educaci&oacute;n Superior -CONACES en la
+        Sala de Tecnolog&iacute;as de Informaci&oacute;n y Comunicaci&oacute;n (TIC) y la Sala de Coordinadores.
+        </p></body></html>]]>
+</string>
+
+    <string name="tconferencialp" translatable="false">Tendencias y buenas prácticas alrededor de la ingeniería del Software</string>
+
+
+    -<string name="conferencialp" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">"
+        Por su condici&oacute;n de tangible, al software se le han presentado
+        restricciones a la hora de garantizar su calidad. Por eso, se prefiere hablar de
+        aseguramiento de calidad durante los procesos de desarrollo y gesti&oacute;n; para que,
+        desde la documentaci&oacute;n, apropiaci&oacute;n e implementaci&oacute;n de buenas pr&aacute;cticas, se adopten
+        mecanismos que promuevan el mejoramiento del proceso y que redunde en la calidad del
+        producto.  As&iacute;, asegurando la calidad del proceso, se promueve un producto de m&aacute;s y
+        mejor calidad.
+        En este caso, se abordan dos fases claves para el aseguramiento de la calidad en los
+        procesos de desarrollo y gesti&oacute;n: una de ellas al inicio, los requerimientos; la otra,
+        al final del procesos, las pruebas.
+    </p></body></html>]]>
+</string>
+
+    <string name="arealp" translatable="false">-</string>
+
+    <string name="programalp" translatable="false">-</string>
+
+    <string name="asolp" translatable="false">-</string>
+
+    <string name="horalp" translatable="false">Jueves 2 de noviembre \nHora: 10:30 - 12:00</string>
+
+    <string name="eh" translatable="false">JUAN SOSSA</string>
+
+
+    -<string name="formacioneh" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+    "Juan es Ingeniero de Sistemas y Computaci&oacute;n y l&iacute;der t&eacute;cnico en PSL. Con m&aacute;s de 10 a&ntilde;os de
+    experiencia en la industria de IT, ha trabajado como desarrollador senior de software,
+    consultor IT, y profesor. Su experiencia incluye proyectos de integraci&oacute;n con grandes
+    vol&uacute;menes de datos en sectores industriales que requieren procesamiento y almacenamiento
+    a gran escala. Actualmente en PSL trabaja en proyectos destinados a procesar 1 bill&oacute;n de
+    eventos por segundo y  realizar  an&aacute;lisis sobre billones de registros que se actualizan
+    constantemente, destinados a proyectos con carros aut&oacute;nomos.
+        </p></body></html>]]>
+</string>
+
+    <string name="tconferenciaeh" translatable="false">Analytics for BigData with Apache Software</string>
+
+
+    -<string name="conferenciaeh" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+        Cuando el volumen y la velocidad de los datos de entrada y salida
+        crecen, necesitamos mejorar los m&eacute;todos para extraer, transformar, cargar y procesar los datos.
+        Preguntas como: &#191;C&oacute;mo leer m&uacute;ltiples fuentes de datos con esquemas independientes usando
+        el mejor conjunto de herramientas&#63;
+        &#191;Es posible usar un enfoque libre de esquemas&#63; &#191;C&oacute;mo distribuir los datos para obtener
+        rendimiento&#63; &#191;C&oacute;mo se procesa el origen de datos en vivo usando herramientas de transmisi&oacute;n&#63;
+        En la siguiente charla, presentaremos una descripci&oacute;n general de las herramientas y
+        proyectos de Apache para resolver las preguntas principales.
+        </p></body></html>]]>
+</string>
+
+    <string name="areaeh" translatable="false">-</string>
+
+    <string name="programaeh" translatable="false">-</string>
+
+    <string name="asoeh" translatable="false">-</string>
+
+    <string name="horaeh" translatable="false">Jueves 2 de noviembre \nHora: 16:30 - 18:00</string>
+
+    <string name="mo" translatable="false">MANUEL ORTEGA CANTERO</string>
+
+
+    -<string name="formacionmo" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+        Manuel es Licenciado en Ciencias (Secci&oacute;n de Qu&iacute;micas) de la
+        Universidad Aut&oacute;noma de Barcelona, Grado de Licenciado en Ciencias (Secci&oacute;n Qu&iacute;micas)
+        de la Universidad Aut&oacute;noma de Barcelona, Certificado de Aptitud Pedag&oacute;gica del Instituto
+        de Ciencias de la Educaci&oacute;n de la U.A.B y Doctor en Ciencias (Qu&iacute;mica F&iacute;sica) de la
+        Universidad Aut&oacute;noma de Barcelona.
+        Manuel es catedr&aacute;tico de Universidad numerario en la Escuela Superior de Inform&aacute;tica
+        de Ciudad Real desde 3 de Julio de 2003. Universidad de Castilla - La Mancha. &Aacute;rea de
+        conocimiento: Lenguajes y Sistemas Inform&aacute;ticos.
+    </p></body></html>]]>
+</string>
+
+    <string name="tconferenciamo" translatable="false">Técnicas de seguimiento ocular (eye tracking) en el desarrollo de aplicaciones para la enseñanza de la programación.</string>
+
+
+    -<string name="conferenciamo" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">T&eacute;nicas de seguimiento ocular (eye tracking) en el desarrollo de aplicaciones para la ense&ntilde;anza de la programaci&oacute;n.</p></body></html>]]>
+</string>
+
+
+    -<string name="areamo" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+        Inform&aacute;tica Educativa y Sistemas de e-Learning:
+        -Dise&ntilde;o de modelos computacionales en sistemas de aprendizaje.
+        -Integraci&oacute;n de ontolog&iacute;as, est&aacute;ndares y objetos de aprendizaje en sistemas de e-Learning.
+        Interacci&oacute;n Persona-Computador:
+        -Dise&ntilde;o y especificaci&oacute;n de interfaces de usuario cooperativos y colaborativos.
+        -Dise&ntilde;o de la interacci&oacute;n mediante los paradigmas de computaci&oacute;n m&oacute;vil, ubicua y realidad aumentada.
+    </p></body></html>]]>
+</string>
+
+    <string name="programamo" translatable="false">-</string>
+
+    <string name="asomo" translatable="false">-</string>
+
+    <string name="horamo" translatable="false">Miercoles 1 de noviembre \nHora: 10:30 - 12:00</string>
+
+    <string name="title_activity_mapalug" translatable="false">Map</string>
+
+    <string name="ho" translatable="false">HUGO ARMANDO ORDOÑEZ ERAZO</string>
+
+
+    -<string name="formacionho" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+        Ingeniero de Sistemas, Especialista en Gerencia Inform&aacute;tica,
+        Mag&iacute;ster en Computaci&oacute;n y Doctor en Ingenier&iacute;a Telem&aacute;tica. Se encuentra categorizado
+        como Investigador Asociado seg&uacute;n Colciencias. Ha realizado estancias investigativas
+        en la  Universidad Nacional de Colombia sede Bogot&aacute;,  en el a&ntilde;o 2010  y en la Universidad
+        Federal do Rio Grande do Sul, Porto Alegre Brasil, en el a&ntilde;o 2013. Actualmente es profesor
+        titular de la Universidad San Buenaventura de Cali
+        </p></body></html>]]>
+</string>
+
+    <string name="tconferenciaho" translatable="false">Clustering de modelos de procesos de negocio en búsqueda multimodal y arreglos cobertura</string>
+
+
+    -<string name="conferenciaho" translatable="false">
+
+-<![CDATA[ <html><body><p style=\"font-size:14px; \" align=\"justify\">
+        Debido al gran volumen de repositorios de procesos empresariales,
+        encontrar un proceso en particular o un subconjunto de ellos basado en similitudes de
+        funcionalidad o actividades pueden convertirse en una tarea dif&iacute;cil. Esta charla presenta
+        un m&eacute;todo de b&uacute;squeda y agrupaci&oacute;n de modelos de procesos de negocio. El m&eacute;todo de b&uacute;squeda
+        considera la informaci&oacute;n lingü&iacute;stica y de comportamiento. El m&eacute;todo cluster se basa en
+        (un objeto combinatorio utilizado para minimizar el conjunto de ensayos para encontrar
+        una agrupaci&oacute;n  particular). El m&eacute;todo de agrupaci&oacute;n  evita la superposici&oacute;n y mejora la
+        homogeneidad de los grupos creados utilizando un arreglo de cobertura. Los resultados
+        obtenidos superan los resultados la precisi&oacute;n, el recuerdo y la F-Medida de los enfoques
+        previamente reportados.
+        </p></body></html>]]>
+</string>
+
+    <string name="areaho" translatable="false">-</string>
+
+    <string name="programaho" translatable="false">-</string>
+
+    <string name="asoho" translatable="false">-</string>
+
+    <string name="horaho" translatable="false">Viernes 3 de noviembre \nHora: 08:00 - 10:00</string>
 
 </resources>

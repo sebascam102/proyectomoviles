@@ -9,7 +9,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Proyecto fianl"
+        android:label="Proyecto final"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -31,7 +31,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".PonentestaticoActivity"></activity>
-        <activity android:name=".MapaLugFragment"></activity>
         <activity android:name=".Info"></activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"

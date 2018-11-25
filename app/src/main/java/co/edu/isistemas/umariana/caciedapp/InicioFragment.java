@@ -45,7 +45,6 @@ public class InicioFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         final View view = inflater.inflate(R.layout.fragment_inicio, container, false);
-        ponencia= (ImageButton) view.findViewById(R.id.btnpone);
         conferencia= (ImageButton) view.findViewById(R.id.btnconfe);
         lugares= (ImageButton) view.findViewById(R.id.btnlug);
         programacion= (ImageButton) view.findViewById(R.id.btnprog);
@@ -69,22 +68,7 @@ public class InicioFragment extends Fragment {
 
                       }
         });
-        ponencia.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                //  Log.e("fdgfdfgfgfgfh--->","SI");
-                Fragment fragment = null;
-                Class fragmentClass= PonenciasFragment.class;
-                try{
-                    fragment = (Fragment) fragmentClass.newInstance();
-                }catch (Exception e){
-                    e.printStackTrace();
-                }
-                FragmentManager fragmentManager=myContext.getSupportFragmentManager();
-                fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
-
-            }
-        });
-
+       
         lugares.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 //  Log.e("fdgfdfgfgfgfh--->","SI");
